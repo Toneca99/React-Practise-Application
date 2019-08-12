@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React-Practice-Applications/static/css/main.44ad8dfa.chunk.css",
-    "main.js": "/React-Practice-Applications/static/js/main.c212cd55.chunk.js",
-    "main.js.map": "/React-Practice-Applications/static/js/main.c212cd55.chunk.js.map",
-    "runtime~main.js": "/React-Practice-Applications/static/js/runtime~main.a3e09a86.js",
-    "runtime~main.js.map": "/React-Practice-Applications/static/js/runtime~main.a3e09a86.js.map",
-    "static/js/2.8c91b07f.chunk.js": "/React-Practice-Applications/static/js/2.8c91b07f.chunk.js",
-    "static/js/2.8c91b07f.chunk.js.map": "/React-Practice-Applications/static/js/2.8c91b07f.chunk.js.map",
-    "index.html": "/React-Practice-Applications/index.html",
-    "precache-manifest.2c865ab1b2fcf9b8ed69e72134da8155.js": "/React-Practice-Applications/precache-manifest.2c865ab1b2fcf9b8ed69e72134da8155.js",
-    "service-worker.js": "/React-Practice-Applications/service-worker.js",
-    "static/css/main.44ad8dfa.chunk.css.map": "/React-Practice-Applications/static/css/main.44ad8dfa.chunk.css.map"
+    "main.css": "/React-Practise-Application/static/css/main.44ad8dfa.chunk.css",
+    "main.js": "/React-Practise-Application/static/js/main.c212cd55.chunk.js",
+    "main.js.map": "/React-Practise-Application/static/js/main.c212cd55.chunk.js.map",
+    "runtime~main.js": "/React-Practise-Application/static/js/runtime~main.2d135428.js",
+    "runtime~main.js.map": "/React-Practise-Application/static/js/runtime~main.2d135428.js.map",
+    "static/js/2.8c91b07f.chunk.js": "/React-Practise-Application/static/js/2.8c91b07f.chunk.js",
+    "static/js/2.8c91b07f.chunk.js.map": "/React-Practise-Application/static/js/2.8c91b07f.chunk.js.map",
+    "index.html": "/React-Practise-Application/index.html",
+    "precache-manifest.079a0a4f1181e4e1a05e817144acb6e2.js": "/React-Practise-Application/precache-manifest.079a0a4f1181e4e1a05e817144acb6e2.js",
+    "service-worker.js": "/React-Practise-Application/service-worker.js",
+    "static/css/main.44ad8dfa.chunk.css.map": "/React-Practise-Application/static/css/main.44ad8dfa.chunk.css.map"
   }
 }
