@@ -2,5 +2,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## A simple search app
 
-My app uses the unsplash API key to access the images.
+This app uses the unsplash API key to access the images.
 
